@@ -1,0 +1,28 @@
+ body{
+  background-color: white;
+ }
+ h1{
+  color: rgb(5, 75, 102);
+  text-align: center;
+}
+  h2{
+  color: rgb(42, 185, 252);
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: center;
+  
+}
+   
+ .firstwo-headings{
+   color: rgb(243, 245, 247);
+   background-color: rgb(9, 61, 95);
+ }
+ h4{
+   color: darkcyan;
+ }
+ .about-me, p {
+   color: rgb(3, 3, 3);
+   font-size: 16px;
+   font-weight: lighter;
+   
+ }
